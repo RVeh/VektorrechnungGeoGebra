@@ -36,11 +36,11 @@ Alle Dateien sind sofort einsatzbereit.
 
 Hier kannst du die vorbereitete GeoGebra-Datei mit den zwei Ebenen im Parameterformat laden:
 
-[**01_Ebenen_in_PMF_Veh.ggb herunterladen**](https://raw.githubusercontent.com/RVeh/VektorrechnungGeoGebra/main/src/GeoGebra/01_Ebenen_in_PMF_Veh.ggb)
+[**01_Ebenen_in_PMF_Veh.ggb herunterladen**](https://raw.githubusercontent.com/RVeh/VektorrechnungGeoGebra/main/GeoGebra/01_Ebenen_in_PMF_Veh.ggb)
 
 Oder mit dem Smartphone per QR-Code:
 
-![QR-Code](https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=https://raw.githubusercontent.com/RVeh/VektorrechnungGeoGebra/main/src/GeoGebra/01_Ebenen_in_PMF_Veh.ggb)
+![QR-Code](https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=https://raw.githubusercontent.com/RVeh/VektorrechnungGeoGebra/main/GeoGebra/01_Ebenen_in_PMF_Veh.ggb)
 
 > 💡 Hinweis: Wenn der Browser die Datei nur anzeigt, nicht speichert — Rechtsklick → „Speichern unter …“ wählen.
 
