@@ -23,7 +23,7 @@ Alle Dateien sind sofort einsatzbereit.
 ## 📂 Inhalte des Repositories
 
 ### ✔ 1. GeoGebra-Datei (`.ggb`)
-**`Ebenen_Schnitt_Parameterform.ggb`**
+**`01_Ebenen_in_PMF_Veh.ggb`**
 
 - Zwei Ebenen in Parameterform (Stützvektor + Spannvektoren)  
 - Visualisierung der Ebenen im Raum  
