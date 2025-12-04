@@ -50,3 +50,13 @@ Damit formulieren wir das LGS:
 gl1 := x(E1(s,t)) = x(E2(p,q))
 gl2 := y(E1(s,t)) = y(E2(p,q))
 gl3 := z(E1(s,t)) = z(E2(p,q))
+```
+---
+
+So sieht die Texteingabe (LaTeX anklicken) aus, damit im Textfenster die scböne Vektor-Darstellung entsteht.
+
+<img width="832" height="954" alt="Texteingabe_LaTeX" src="https://github.com/user-attachments/assets/d636d94b-e124-442d-8a79-a6978882f46a" />
+
+---
+
+
