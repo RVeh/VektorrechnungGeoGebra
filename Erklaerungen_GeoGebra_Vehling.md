@@ -22,9 +22,9 @@ Daraus entstehen drei Gleichungen:
 
 | Gleichung                     | Bedeutung                 |
 |------------------------------|---------------------------|
-| $x(E_1) = x(E_2)$          | Vergleich der x-Koordinate |
-| $(y(E_1) = y(E_2)$         | Vergleich der y-Koordinate |
-| $z(E_1) = z(E_2)$          | Vergleich der z-Koordinate |
+| $x(E_1) = x(E_2)$          | x-Koordinaten: erste Zeile des LGS |
+| $(y(E_1) = y(E_2)$         | y-Koordinate: zweite Zeile des LGS  |
+| $z(E_1) = z(E_2)$          | z-Koordinate: dritte Zeile des LGS  |
 
 Mögliche Fälle:
 
