@@ -34,7 +34,7 @@ Alle Dateien sind sofort einsatzbereit.
 
 **`LGS-Gauss_Verfahren_Vehling.pdf`**
 
-In dieser Datei wird das Lösen von  **linearen Gleichungssystemen** behandelt. Hierbei steht der geometrische Zusammenhang im Fokus. Weiterhin wird etwass dir Tür zur Uni geöffnet. Dort werden lineare Gleichungssysteme als (lineare) Abbildungen betrachtet. Das führt dazu, dass spannende Stukturen sichtbar werden und damit viele Probleme plötzlich einfach gelöst werden können.
+In dieser Datei wird das Lösen von  **linearen Gleichungssystemen** behandelt. Hierbei steht der geometrische und vektorielle Zusammenhang im Fokus. Weiterhin wird die Tür zur Uni geöffnet. Dort werden lineare Gleichungssysteme als lineare Abbildungen betrachtet. Das führt dazu, dass spannende Stukturen sichtbar werden und damit viele Probleme plötzlich einfach gelöst werden können.
 
 
 ---
