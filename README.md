@@ -23,12 +23,10 @@ Alle Dateien sind sofort einsatzbereit.
 ## 📂 Inhalte des Repositories
 
 ### ✔ GeoGebra-Datei (`.ggb`)
-**`01_Ebenen_in_PMF_Veh.ggb`**
 
-**`Ebenen_PMF_Veh.ggb`**   (zusätzlich ein Kontrollkästchen für die Schnittgerade
+**`Ebenen_PMF_Veh.ggb`**   
 
-Eine Gleichung in Parameterform ist eine andere Darstellung als ein LGS mit 3 Gleichungen und 
-
+- Eingabe von zwei Ortsvektoren und vier Spannvektoren als Bausteine für zwei Ebenen in PMF
 - Zwei Ebenen in Parameterform (Stützvektor + Spannvektoren)  
 - Visualisierung der Ebenen im Raum  
 - LGS wird im CAS-Fenster gelöst  
