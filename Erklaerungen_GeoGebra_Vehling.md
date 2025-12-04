@@ -14,7 +14,7 @@ Eigenlich müsste es $\vec{E}(s,t)$ heißen, aber Pfeile werden in GeoGebra nich
 
 ## 2. Was passiert beim Schnitt zweier Ebenen?
 
-Für zwei Ebenen $E_1(s,t)$ und $E_2(p,q)$ gilt:
+Für zwei Ebenen $E_1(s,t)$ und $E_2(p,q)$ gilt die Schnittbedingung:
 
 $$ E_1(s,t) = E_2(p,q) $$
 
