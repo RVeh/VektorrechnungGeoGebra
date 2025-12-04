@@ -3,31 +3,27 @@
 ## 1. Parameterform und LGS – was steckt dahinter?
 
 Eine Ebene in Parameterform  
-\[
-E(s,t)= a + s\,u + t\,v
-\]  
+$$ E(s,t)= a + s\,u + t\,v $$
 ist mathematisch gesehen nichts anderes als eine **Lösung eines linearen Gleichungssystems (LGS)**:
 
 - 3 Gleichungen (für x, y, z)  
-- 4 Unbekannte (\(s,t,p,q\)), weil zwei Ebenen jeweils zwei Parameter besitzen.
+- 4 Unbekannte $(s,t,p,q$), weil zwei Ebenen jeweils zwei Parameter besitzen.
 
 ---
 
 ## 2. Was passiert beim Schnitt zweier Ebenen?
 
-Für zwei Ebenen \(E_1(s,t)\) und \(E_2(p,q)\) gilt:
+Für zwei Ebenen $E_1(s,t)$ und $E_2(p,q)$ gilt:
 
-\[
-E_1(s,t) = E_2(p,q)
-\]
+$$ E_1(s,t) = E_2(p,q) $$
 
 Daraus entstehen drei Gleichungen:
 
 | Gleichung                     | Bedeutung                 |
 |------------------------------|---------------------------|
-| \(x(E_1) = x(E_2)\)          | Vergleich der x-Koordinate |
-| \(y(E_1) = y(E_2)\)          | Vergleich der y-Koordinate |
-| \(z(E_1) = z(E_2)\)          | Vergleich der z-Koordinate |
+| $x(E_1) = x(E_2)$          | Vergleich der x-Koordinate |
+| $(y(E_1) = y(E_2)$         | Vergleich der y-Koordinate |
+| $z(E_1) = z(E_2)$          | Vergleich der z-Koordinate |
 
 Mögliche Fälle:
 
