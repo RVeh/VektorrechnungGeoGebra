@@ -32,4 +32,9 @@ Alle Dateien sind sofort einsatzbereit.
 - LGS wird im CAS-Fenster gelöst  
 - Schnittgerade wird sichtbar und parametrisiert
 
+**`LGS-Gauss_Verfahren_Vehling.pdf`**
+
+In dieser Datei wird das Lösen eine LGS behandelt. Hierbei steht der geometrische Zusammenhang im Fokus. Weiterhin wird etwass dir Tür zur Uni geöffnet. Dort werden **lineare Gleichungssysteme** als (lineare) Abbildungen betrachtet. Das fürht dazu, dass spannende Stukturen sichtbar werden und damit viele Probleme plötzlich einfach gelöst werden können.
+
+
 ---
