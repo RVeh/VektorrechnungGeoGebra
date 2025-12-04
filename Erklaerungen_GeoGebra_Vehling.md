@@ -59,7 +59,7 @@ gl2 := y(E1(s,t)) = y(E2(p,q))
 gl3 := z(E1(s,t)) = z(E2(p,q))
 ```
 ---
-Jetzt wird das LGS gelösr:
+Jetzt wird das LGS gelöst:
 
 g(q) := Löse({gl1, gl2, gl3}, {s, t, p})
 
