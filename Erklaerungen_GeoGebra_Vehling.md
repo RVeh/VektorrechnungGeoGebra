@@ -8,6 +8,7 @@ ist mathematisch gesehen nichts anderes als  **ein lineares Gleichungssystems (L
 - 3 Gleichungen (für x, y, z)  
 - 4 Unbekannte $(s,t,p,q)$, weil zwei Ebenen jeweils zwei Parameter besitzen.
 
+Eigenlich müsste es $\vec{E}(s,t)$ heißen, aber Pfeile werden in GeoGebra nicht eingeben.
 
 ---
 
