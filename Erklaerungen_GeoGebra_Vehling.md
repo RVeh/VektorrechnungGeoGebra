@@ -6,7 +6,7 @@ Eine Ebene in Parameterform  $E(s,t)= \vec{a} + s\cdot \vec{u} + t\cdot \vec{v}$
 ist mathematisch gesehen nichts anderes als  **ein lineares Gleichungssystems (LGS)**:
 
 - 3 Gleichungen (für x, y, z)  
-- 4 Unbekannte $(s,t,p,q)$, weil zwei Ebenen jeweils zwei Parameter besitzen.
+- 4 Unbekannte $(s,t,p,q)$, weil zwei Ebenen beteiligt sind und zwei Ebenen jeweils zwei Parameter besitzen.
 
 Eigenlich müsste es $\vec{E}(s,t)$ heißen, aber Pfeile werden in GeoGebra nicht eingeben.
 
