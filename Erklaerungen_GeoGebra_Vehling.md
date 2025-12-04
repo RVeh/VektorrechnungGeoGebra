@@ -3,9 +3,7 @@
 ## 1. Parameterform und LGS – was steckt dahinter?
 
 Eine Ebene in Parameterform  
-$$ 
-E(s,t)= a + s\,u + t\,v 
-$$
+$ E(s,t)= a + s\,u + t\,v $
 ist mathematisch gesehen nichts anderes als eine **Lösung eines linearen Gleichungssystems (LGS)**:
 
 - 3 Gleichungen (für x, y, z)  
